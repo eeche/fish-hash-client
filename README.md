@@ -25,7 +25,7 @@ What if an attacker gains access to the host, silently modifies the Docker overl
 
 > This ensures Docker image integrity verification at runtime.
 
-&nbsp;
+----
 
 # 도커 이미지 무결성 검증
 
